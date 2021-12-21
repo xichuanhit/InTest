@@ -1,6 +1,6 @@
 """
 Github: xichuanhit
-https://github.com/xichuanhit/PerCode/tree/main/Stock-Pre
+https://github.com/xichuanhit/PerCode/blob/main/02-Stock-Pre/Stock_FNN_torch.py
 
 environment: python=3.9.7, torch=1.10.1
 """
