@@ -1,3 +1,12 @@
+"""
+Github: xichuanhit
+https://github.com/xichuanhit/PerCode/tree/main/Stock-Pre
+
+models include 'lstm', 'fnn' model
+
+environment: python=3.9.7, torch=1.10.1
+"""
+
 import numpy as np
 import torch
 from torch import nn
