@@ -1,6 +1,6 @@
 """
 Github: xichuanhit
-https://github.com/xichuanhit/PerCode/tree/main/Stock-Pre
+https://github.com/xichuanhit/PerCode/edit/main/01-Electricity-Pre/BP-2.py
 
 environment: python=3.9.7, tensorflow=2.7
 """
