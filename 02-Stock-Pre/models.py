@@ -1,6 +1,6 @@
 """
 Github: xichuanhit
-https://github.com/xichuanhit/PerCode/tree/main/Stock-Pre
+https://github.com/xichuanhit/PerCode/edit/main/02-Stock-Pre/models.py
 
 models include 'lstm', 'fnn' model
 
