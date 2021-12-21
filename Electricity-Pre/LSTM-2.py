@@ -1,3 +1,10 @@
+"""
+Github: xichuanhit
+https://github.com/xichuanhit/PerCode/tree/main/Stock-Pre
+
+environment: python=3.9.7, tensorflow=2.7
+"""
+
 import OpenSSL.crypto
 import pandas as pd
 import numpy as np
